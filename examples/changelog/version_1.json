@@ -1,0 +1,7 @@
+{
+  "examples/i18n_files/": {},
+  "examples/i18n_files/fakeFolder1/": {
+    "remove": "TASK-123",
+    "removeIn.nested": "TASK-123"
+  }
+}

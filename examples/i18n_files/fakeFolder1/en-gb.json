@@ -1,0 +1,6 @@
+{
+  "remove": "to be removed",
+  "removeIn": {
+    "nested": "nested key to be removed"
+  }
+}
