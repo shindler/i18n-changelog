@@ -1,0 +1,12 @@
+{
+  "name": "i18n-changelog",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "unset-value": "^2.0.1",
+    "yargs": "^17.7.2"
+  }
+}
